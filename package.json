@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-audiotoggle",
+  "name": "cordova-plugin-audiotoggle-receiver",
   "version": "1.0.3",
   "description": "Cordova plugin for switching between speaker and earpiece when playing audio",
   "main": "index.js",
